@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">Looking for someone who can recommend a new anime, or join me for a raid! fanatic by day, anime enthusiast by night. Always down to discuss [Programming] or my favorite [genre] anime!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sterben1402&label=Profile%20views&color=0e75b6&style=flat" alt="Sterben1402" /> </p>
